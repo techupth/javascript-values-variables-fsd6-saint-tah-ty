@@ -2,5 +2,4 @@
 let celsius = 30;
 
 // Start coding here;
-
-let fahrenheit;
+let fahrenheit = celsius * 1.8 + 32;
